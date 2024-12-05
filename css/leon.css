@@ -4,9 +4,7 @@
   box-sizing: border-box;
   margin: 0;
 }
-:root {
-  --gray-dark: #343a40;
-}
+
 body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
